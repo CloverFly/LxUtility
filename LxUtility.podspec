@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   
   s.requires_arc = true
   
-  s.source_files  = "LxFiles", "LxFiles/**/*.{h,m}", "LxUtilityDemo/**/*.{*}"
+  s.source_files  = "LxFiles", "LxFiles/**/*.{h,m}"
 	s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit' 
 end
