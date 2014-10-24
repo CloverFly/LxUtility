@@ -2,7 +2,7 @@ LxUtility
 =========
 
 四叶草个人工具，便于开发，开始踏上开源之路。努力，加油！
-###Create a blurred images, take a screenshot, make a image with color...
+###Clover
 
 [![Build Status](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)
 
