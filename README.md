@@ -4,9 +4,6 @@ LxUtility
 四叶草个人工具，便于开发，开始踏上开源之路。努力，加油！
 ###Create a blurred images, take a screenshot, make a image with color...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg" alt="UIImage-Helpers" title="UIImage-Helpers" width="792" height="392">
-</p>
 [![Build Status](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)
 
 
