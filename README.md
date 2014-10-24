@@ -5,11 +5,9 @@ LxUtility
 ###Create a blurred images, take a screenshot, make a image with color...
 
 <p align="center">
-  <img src="http://s27.postimg.org/xz5kkg5ab/UIImage_Helpers.png" alt="UIImage-Helpers" title="UIImage-Helpers" width="792" height="392">
+  <img src="https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg" alt="UIImage-Helpers" title="UIImage-Helpers" width="792" height="392">
 </p>
-[![Build Status](https://api.travis-ci.org/NZN/UIImage-Helpers.png)](https://api.travis-ci.org/NZN/UIImage-Helpers.png)
-[![Cocoapods](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)](http://beta.cocoapods.org/?q=UIImage-Helpers)
-
+[![Build Status](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)](https://raw.githubusercontent.com/CloverFly/lxPub/master/clover.jpg)
 
 
 
